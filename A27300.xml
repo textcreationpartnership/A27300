@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season, or, A letter from a reverend divine to a justice of the peace in London</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27300</idno>
+            <idno type="STC">Wing B173A</idno>
+            <idno type="STC">ESTC R5135</idno>
+            <idno type="EEBO-CITATION">13684219</idno>
+            <idno type="OCLC">ocm 13684219</idno>
+            <idno type="VID">101337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 833:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season, or, A letter from a reverend divine to a justice of the peace in London</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R.B.</note>
+                  <note>"Licensed May the 4th, 1679."</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101337:1"/>
+            <pb facs="tcp:101337:1" rendition="simple:additions"/>
+            <p>A WORD IN SEASON: OR, A LETTER FROM A Reverend Divine TO A <hi>Iuſtice of the Peace</hi> IN
+LONDON.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license_to_print">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <date>
+                              <hi>May</hi> the 4th. 1679.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. G.</hi> in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:101337:2"/>
+            <head>A WORD in Seaſon, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Anſwer to Yours, of the 4th. Inſtant; I can<g ref="char:EOLhyphen"/>not but acquaint you, that ever ſince I
+heard any thing of this late <hi>Helliſh Plot,</hi> Contrived by the <hi>Roman Catholicks,</hi>
+againſt his Majeſties moſt ſa<g ref="char:EOLhyphen"/>cred Perſon, our Religion, and Government; and have
+obſerved what Gracious <hi>Proclamations,</hi> and Suitable <hi>ORDERS</hi> of King and Councel,
+have been frequently ex<g ref="char:EOLhyphen"/>hibited for the Extirpation of thoſe Common Enemies of our Land, and
+perpetual Diſturbers of Mankind, <hi>Prieſts, Jeſuites,</hi> and other <hi>Romiſh
+Recuſants;</hi> and yet, to our ſad Experience, have ſeen how both the City and Coun<g ref="char:EOLhyphen"/>try
+ſtill ſwarm with theſe Deſtructive Vermine, who yet hide their Permeradus Heads in every
+Hole, and Corner of the Nation; and are both ready, and willing too, up<g ref="char:EOLhyphen"/>on the leaſt Occaſion
+offered them, to Sally out, and make Deſparate Excurſions; either to the Proſelyting, or
+ſtirring up Diſſention among his Majeſties good Sub<g ref="char:EOLhyphen"/>jects, Firing of Towns or Cities,
+Committing of Clan<g ref="char:EOLhyphen"/>deſtine Murders; or any other Helliſh Impiety, be it never ſo Black, or
+deep Dy'd, ſo it may but conduce to the <hi>Romiſh</hi> Intereſt, and <hi>Proteſtant</hi>
+Ruin: I ſay, <hi>Sir,</hi> ha<g ref="char:EOLhyphen"/>ving obſerved, that theſe Evils ſtill remain among us; I have
+been thus bold, partly through that intimate Friendſhip, where-with you have been alwayes pleas'd
+to Honor me; and partly through an earneſt Deſire, to ſatis<g ref="char:EOLhyphen"/>fy my own Conſcience, in the
+Diſcharge of that Functi<g ref="char:EOLhyphen"/>on, wherein Providence has been pleaſed to place me; to give you my
+own Sentiments, (which, I think, I may
+<pb n="3" facs="tcp:101337:2" rendition="simple:additions"/>
+term <hi>Supplicationes Populi,</hi> The Wiſhes of the People) of which, yet I am in no wiſe
+fond; but ſhould be glad to have them Return'd, when Corrected by your better Judgment.</p>
+            <p>The great Thing which I would offer to your Care and Conſideration, is, That ſince our Great
+City, the <hi>Metro<g ref="char:EOLhyphen"/>polis</hi> of our whole Nation, is by the <hi>Helliſh Conſpiracy</hi> of
+our Implacable Enemies, at this Day more particular<g ref="char:EOLhyphen"/>ly threatned with thoſe two moſt Terrible
+Judgments of <hi>Sword,</hi> and <hi>Fire;</hi> the latter of which, if not ſeaſonably
+prevented, is in all likelihood, like to be the greateſt Incourager of the former: How
+Commendable would it be, if the afore-mentioned <hi>Orders</hi> and <hi>Proclamations</hi> of his
+Majeſties, (wherein he hath divulged all the Marks of a Gracious Sovereign, and a good
+Chriſtian) were by thoſe his Officers, to whom they are Recom<g ref="char:EOLhyphen"/>mended, put into as ſtrict
+Execution, as they were at firſt deſign'd? What, Is it not enough, that we have a <hi>God,</hi>
+but we muſt have a <hi>King</hi> too, who takes grea<g ref="char:EOLhyphen"/>ter Care of us, than We of our Selves? Shall
+he Con<g ref="char:EOLhyphen"/>deſcend ſo far, as to grant us a Power, and ſhall not we uſe the Means for our
+Security? but like drowſie Snayls, lie ſlumbering in our ſeveral Houſes, till they be
+either Demoliſh't, or burnt about our Ears? O that I could awake every Dividual Officer out of
+this Fatal Stupidity, and ſtir him up to Purge the City of thoſe Skulking <hi>Recuſants;</hi>
+who, like Crude Humors, infeſt every Part of Her; and have often ſet her into ſuch Burning
+Feavors, as have threatned to bring both her, and all her Inhabitants, to ſpeedy Ruin! It would
+be a good Work therefore, to ſee where the Fault lies: If Inferior Officers are either Remiſs,
+or Timerous; for fear, forſooth, of offending their Friends, Neighbors, or Relations; and will
+not take notice of every <hi>Papiſt</hi> they know of, becauſe (perhaps) he is one of their
+Servants,
+<pb n="4" facs="tcp:101337:3"/>
+or ſeems himſelf to be a harmleſs, innocent Fellow. I ſay, for fear of theſe important
+Abuſes, it would be well, if ſuch Officers were inſpected, and puniſhed by their
+Su<g ref="char:EOLhyphen"/>periors. This is no time for Ceremony, or Complement. The Nation is immediately concern'd
+therein; and no leſs than our Lives, Liberties, and Fortunes, lie at Stake. Beſides, no
+<hi>Roman Catholick</hi> is now to be truſted, tho of never ſo ſilly, and unpromiſing an
+Aſpect: We know, that the ſubtleſt <hi>Jeſuites</hi> have obſcured themſelves under the
+meaneſt Trades, or Callings: And therfore, whilſt we Connive at a Taylor, Weaver, or
+Shoo-maker, <hi>&amp;c.</hi> of that Perſwaſion, we do not know, but we harbor a <hi>Coleman,
+Staly,</hi> or <hi>Pickering,</hi> amongſt us; who, whilſt he holds us in ſuſpence with a
+ſeeming Friendſhip, is ſe<g ref="char:EOLhyphen"/>cretly Contriving how to introduce our Enemies to Cut our Throats.
+Nay further; I know, that the main Current of their Extravagant Principles, do ſo incourage and
+prompt them to Treachery and Blood ſhed, that were my own Brother a <hi>Roman Catholick,</hi> and
+knew me to be otherwiſe, I would refuſe to Bed with him, for fear he ſhould ſtab me in my
+Sleep. There is no Faith, no Truſt to be found in them: No Obligation can in<g ref="char:EOLhyphen"/>gage them to Peace:
+No Oaths can tie them to Loyal<g ref="char:EOLhyphen"/>ty, or a civil Converſation, among others of a Different Opinion;
+which a Reverend Divine took particular Notice of, and upon an urgent Occaſion, expreſt
+himſelf thus before a Great and Learned Auditory, in his Ser<g ref="char:EOLhyphen"/>mon. <hi>Conformity</hi> (ſayes
+he) <hi>to the Oath of Allegiance, and other outward formal Satisfaction of the State, concur<g ref="char:EOLhyphen"/>ring
+with a Reſolution to continue in Popery, is far more Pernicious to the State, than open and
+profeſt Recuſancy.</hi> For, firſt, either by Power of <hi>Popiſh</hi> Diſpenſation,
+which great Men eſpecially, may for their Money eaſily pro<g ref="char:EOLhyphen"/>cure: They may thus become more
+notoriouſly Service<g ref="char:EOLhyphen"/>able to the Church of <hi>Rome,</hi> than before.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:101337:3"/>2dly. He declines and diverts the watchful Eye of
+State-Jealouſy, from its ordinary Vigilancy over <hi>Popiſh</hi> Villa<g ref="char:EOLhyphen"/>nies and Machinations:
+Whereby he more ſecurely con<g ref="char:EOLhyphen"/>trives his Plots and Deſigns; and thinking himſelf
+un<g ref="char:EOLhyphen"/>ſuſpected, moſt dangerouſly concurs with that <hi>Man of Sin;</hi> to the waſting of
+our Church, the diſtrengthening of the State, and the total Subverſion of Religion and
+Government.</p>
+            <p n="3">3dly. He lies more dangerouſly ſhrowded under Re<g ref="char:EOLhyphen"/>ſpect, and the undeſerved
+Reputation of a Good Subject; and ſo may with greater Bravery, wound and weaken the better Side,
+vex Goodneſs and Good Men; promote <hi>Po<g ref="char:EOLhyphen"/>pery;</hi> hinder the Proceedings againſt
+<hi>Papiſts,</hi> under co<g ref="char:EOLhyphen"/>lorable Oſtentations of ſafer Policy, and flouriſhing Pre<g ref="char:EOLhyphen"/>tences
+of deeper Reaches into the Myſteries of State.</p>
+            <p n="4">4thly. He that Conforms, in outward Obedience to the <hi>STATE,</hi> by vertue of a
+Popiſh <hi>Indulgence, Diſpen<g ref="char:EOLhyphen"/>ſation,</hi> or <hi>Pardon,</hi> is more than ordinarily
+obliged to Re<g ref="char:EOLhyphen"/>compence the <hi>Popes</hi> Liberality therein; with ſome more Remarkable and
+Notorious Service to the <hi>See</hi> of <hi>Rome</hi> than ordinary.</p>
+            <p n="5">5thly. He that with willful Inlargement of Conſcience, and ſecret ſturdy
+Reſolution, takes the Oath, is in all probability, moſt likely to grow Revengful and
+Invete<g ref="char:EOLhyphen"/>rate againſt thoſe that impoſed it.</p>
+            <p>Upon theſe Grounds, I cannot but think it dangerous, to put too much Confidence, even in
+<hi>Church-Papiſts:</hi> whoſe State, while they yet are premeditatedly reſolved to con<g ref="char:EOLhyphen"/>tinue
+in <hi>Popery,</hi> is, if we will Credit their own Doctors, very dangerous; <hi>Vide</hi> Bernards
+<hi>Legal Repentance,</hi> p. 59.</p>
+            <p>I ſpeak not, to drive or detain any <hi>Papiſt</hi> from the Church: No; If he leaves that
+obſtinate Temper be<g ref="char:EOLhyphen"/>hind him, and enters our Congregation, (as he ought to do) with Humility,
+Reverence, and Godly Fear; ſubmitting his Underſtanding to the Illumination of that
+<pb n="6" facs="tcp:101337:4"/>
+Powerful Spirit of God, which opened the Heart of <hi>Lydia,</hi> the Eyes of <hi>Saul,</hi> and
+Converted Hundreds to the <hi>Primitive Church</hi> in a few Hours; I ſhould then re<g ref="char:EOLhyphen"/>joyce at his
+Coming, and ſhould for his farther Incou<g ref="char:EOLhyphen"/>ragement, alot him the beſt ſeat in the Church. But
+if, on the Contrary, if he comes meerly out of For<g ref="char:EOLhyphen"/>mality, with no expectation to be benefitted by
+what he Hears, I look on him no better than a profeſt <hi>Re<g ref="char:EOLhyphen"/>cuſant;</hi> and verily believe,
+It had been better he had kept away.</p>
+            <p>But it may be ſome will reply, What can poſſibly be more required, and exacted from
+theſe Men, than Conformity to outward Obedience to the State? what better Security, or ſurer
+Bond can be thought on, than an Oath; the Sacred, and Soveraign Inſtrument of all Juſtice and
+Obedience amongſt Men? What farther In<g ref="char:EOLhyphen"/>vention of State ſhall be able to ſtay the fearful
+Miſ<g ref="char:EOLhyphen"/>chiefs, that hang over our heads from this Malicious and Murtherous Generation?</p>
+            <p>I Anſwer; None in the World, whilſt they ſtay a<g ref="char:EOLhyphen"/>mong us; not the moſt excellent, and
+Quinteſſcential Policy of all the wiſeſt States, that ly under the <hi>Sun,</hi> can afford
+help in this Caſe. Idolatry is ever attended with this inſeperable Curſe, that it will Plague
+that Kingdom, that Nouriſhes it; and pay it Home with a Witneſs, unleſs ſome Right Hand,
+and reſolute Courſe be taken, for the more ſpeedy rooting of it out. For in<g ref="char:EOLhyphen"/>deed, the Depths
+of the <hi>Miſtery of Iniquity</hi> are laid ſo in<g ref="char:EOLhyphen"/>fathomable, that they cannot be Sounded by
+Honeſt and Chriſtian Policy: Nor are we ever likely to ar<g ref="char:EOLhyphen"/>rive at the Bottom of this Helliſh
+Plot, without the Im<g ref="char:EOLhyphen"/>mediate Aſſiſtance of Allmighty <hi>God.</hi>
+            </p>
+            <p>It's true, it were a very Juſt and Pious Act, to Ad<g ref="char:EOLhyphen"/>miniſter to them the Oath, and bring
+them to the true Church. But their Violations of Oaths, Diſpenſations,
+<pb n="7" facs="tcp:101337:4"/>
+Abſolutions, and Pardons, <hi>&amp;c.</hi> their Equivocations, Mental Reſervations,
+Evaſions, Corruptions of Conſci<g ref="char:EOLhyphen"/>ence, and Execrable Violations of all Laws, both of
+<hi>God</hi> and Man, of Nations and Nature, are ſo Infinite, and Endleſs; and they ſo mingle
+their Concluſions of State, with the very Confuſions of Hell, that in propor<g ref="char:EOLhyphen"/>tion, it is as
+eaſie to Chain up thoſe Damned Spirits from Tempting men on Earth; as to Bridle theſe
+Blood-Thurſty Monſters, from under-mining and over-turning thoſe States, which profeſs the
+Truth of Chriſt, if po<g ref="char:EOLhyphen"/>wer and means were anſwerable to their Malice, and Revenge. Nor can we
+ever expect to be free from the implacable Malice of <hi>Anti Chriſt</hi> Abroad, unleſs we
+endeavour to ſuppreſs the riſing Inſolence of thoſe her Followers at Home. Then, and not
+till then, the Royal Perſon of our moſt Gracious <hi>King,</hi> would be in ſafety; the
+Concurrent Fury of our greateſt Enemies, durſt not entertain a Thought of Invaſion: This
+would cut the Throat of All Plots againſt the <hi>King</hi> and Government; and Cruſh the
+<hi>Pope's</hi> Heart, for ever harbouring any Probability of Exacting, or Re-eſtabliſhing his
+Tyranny or Idolatry, in this happy <hi>Iſland.</hi>
+            </p>
+            <p>And this wiſht for Condition, would be mightily far<g ref="char:EOLhyphen"/>thered by theſe 2 Means.</p>
+            <p>
+               <hi>Firſt,</hi> If Laws, worthily provided in ſuch caſes, might have their Courſe and
+Current, without Oppoſition, Diverſion, Partiality, Diverſion by falſe Friends, or a<g ref="char:EOLhyphen"/>ny
+Cunning Frauds and Deluſions, of the Religious In<g ref="char:EOLhyphen"/>tentions thereof.</p>
+            <p>
+               <hi>Secondly,</hi> If on our ſide, there were but half the care taken for the Maintainance of
+Chriſt's Truth, and Ex<g ref="char:EOLhyphen"/>tirpation of the Infectious Hereſies of the <hi>Man of Sin,</hi> as
+there is Curiouſneſs, and Cruelty in <hi>Popiſh</hi> Kingdoms, for the Continuance of
+<hi>Anti-Chriſtianiſm;</hi> and their Ba<g ref="char:EOLhyphen"/>niſhing, and Barring out even of all poſſibility
+of <hi>Re-forma<g ref="char:EOLhyphen"/>tion,</hi>
+               <pb n="8" facs="tcp:101337:5"/>
+Plantation of <hi>Primitive</hi> Truth, and Profeſſion of Grace.</p>
+            <p>To Conclude; It is the General joynt Conſent, and Current Concluſion, of all the
+<hi>Chriſtian Orthodox</hi> Re<g ref="char:EOLhyphen"/>formed Churches, upon the Face of <hi>Europe;</hi> and it is
+worthyly and unanſwerably demonſtrated by King <hi>James,</hi> of happy Memory, That the
+<hi>Pope</hi> is <hi>ANTI-CHRIST;</hi> and <hi>Rome,</hi> the Myſtical <hi>Babilon.</hi> Though I
+know, ſome few Authors, either Addicted to Partiality, or <hi>Po<g ref="char:EOLhyphen"/>pery</hi> have not aſſented
+hereunto; which is little availa<g ref="char:EOLhyphen"/>ble, in a Truth ſo univerſally reſolved on by
+<hi>Divines</hi> of beſt Learning and Judgement. So that, if we may take their words, before a
+few partial perſons, that write a<g ref="char:EOLhyphen"/>gainſt them, I would ask any man the meaning of theſe
+Scriptures— <hi>Reward Her even as She hath rewarded you; And give Her double, according to
+Her Works.</hi> And a<g ref="char:EOLhyphen"/>gain, <hi>In the Cup She hath Filled you, Fill Her the Dou<g ref="char:EOLhyphen"/>ble.</hi> Rev.
+18.6. And in the 7. v. <hi>In as much, as She Glorified Herſelf, and lived in Pleaſure; ſo
+much give you to Her Torment and Sorrow.</hi>
+            </p>
+            <p>
+               <hi>Sir;</hi> Delays are dangerous! and an Impunity to I<g ref="char:EOLhyphen"/>dolatry, may ſhake the ſtrongeſt
+Pillars in a well ſet<g ref="char:EOLhyphen"/>tled-State: And though I am far againſt Cruelty, yet I am mightly for
+Care; So that, if your Circumſpecti<g ref="char:EOLhyphen"/>on in that <hi>Claſis</hi> of a <hi>Juſtice of the
+Peace,</hi> where in his Majeſty has bin pleas'd to Honor you, can any wiſe ſpeedily promote
+the ſecurity of his Royal Perſon, the Extirpation of <hi>Romiſh Recuſants</hi> out of the
+City, that the Citizens may ſleep without Watch-lights at their Beds-heads, of fear of being
+rows'd by the diſmal Out<g ref="char:EOLhyphen"/>cry of <hi>Fire! Fire!</hi> In fine, If in your Station, you can Effect
+any thing, that may Conduce to the ſafety either of <hi>King,</hi> Country, or the
+<hi>Proteſtant</hi> Religion, There's no man of private Degree, ſhall Expreſs him<g ref="char:EOLhyphen"/>ſelf more
+thankful,</p>
+            <closer>
+               <signed>
+                  <hi>Than him whom you have honored with your Friendſhip: and Subſcribes.</hi>
+R. B.</signed>
+            </closer>
+            <pb facs="tcp:101337:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
